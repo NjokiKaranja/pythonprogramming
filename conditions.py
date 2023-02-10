@@ -10,4 +10,5 @@
 if 4==5:
     print("equal to 4")
 else:
-    print("not eqaul to 4")
+    print("not equal to 4")
+    
