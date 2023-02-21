@@ -143,3 +143,13 @@ get_profile()
 print(profile)
 
 
+
+# #dictionary methods
+# 1.clear
+# 2.pop
+# 3.keys
+# 4.values
+# 5.getn
+# 6.popitem
+# 7.update
+
